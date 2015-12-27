@@ -1,0 +1,11 @@
+set t_Co=256
+syntax on
+colorscheme Tomorrow-Night-Eighties 
+set tabstop=4
+set softtabstop=4
+set expandtab
+set number
+set showcmd
+set directory=$HOME/.vim/swapfiles//
+set background=dark
+set laststatus=2
