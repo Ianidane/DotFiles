@@ -1,0 +1,67 @@
+xvt*cursorBlink:     true
+#URxvt*cursorUnderline: true
+#URxvt*font:            xft:Fantasque Sans Mono:size=9
+#URxvt*boldFont:        xft:Fantasque Sans Mono:size=9:bold
+URxvt*scrollBar:       false
+URxvt.perl-ext-common: default,matcher
+#URxvt.url-launcher:    firefox
+URxvt.matcher.button:  1
+URxvt.internalBorder:  16
+URxvt.lineSpace:       1
+URxvt.letterSpace:     1
+
+# special
+*.foreground:   #d3d0c8
+*.background:   #2d2d2d
+*.cursorColor:  #d3d0c8
+
+# black
+*.color0:       #2d2d2d
+*.color8:       #747369
+
+# red
+*.color1:       #f2777a
+*.color9:       #f2777a
+
+# green
+*.color2:       #99cc99
+*.color10:      #99cc99
+
+# yellow
+*.color3:       #ffcc66
+*.color11:      #ffcc66
+
+# blue
+*.color4:       #6699cc
+*.color12:      #6699cc
+
+# magenta
+*.color5:       #cc99cc
+*.color13:      #cc99cc
+
+# cyan
+*.color6:       #66cccc
+*.color14:      #66cccc
+
+# white
+*.color7:       #d3d0c8
+*.color15:      #f2f0ec
+
+#rofi.width:           75
+#rofi.lines:           10
+#rofi.columns:         1
+#rofi.font:            Fantasque Sans Mono 14
+#rofi.fg:              #ccb18b
+#rofi.bg:              #2d2d31
+#rofi.hlfg:            #000000
+#rofi.hlbg:            #557799
+#rofi.bc:              #2d2d31
+#rofi.bw:              1
+#rofi.loc:             0
+#rofi.padding:         20
+#rofi.yoffset:         0
+#rofi.xoffset:         0
+#rofi.fixed-num-lines: false
+#rofi.hmode:           false
+#rofi.terminal:        rxvt-unicode
+#rofi.ssh-set-title:   true
