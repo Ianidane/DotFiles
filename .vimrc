@@ -11,6 +11,7 @@ set background=dark
 set laststatus=2
 set noshowmode
 set timeoutlen=50
+filetype plugin on
 let g:airline#extensions#tabline#enabled = 1
 nnoremap <Tab> :bnext<CR>
 nnoremap <S-Tab> :bprevious<CR>
